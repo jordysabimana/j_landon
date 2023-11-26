@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React hh
+          Learn React and upload to AWS
         </a>
       </header>
     </div>
